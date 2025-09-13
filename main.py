@@ -1,1 +1,9 @@
-# 在这个文件下编写代码，题目具体要求见README.md文件
+weight=input("请输入要转换的重量")
+if(weight[-1]=='g'):
+  exweight=
+  (eval(weight[0:-2]))*2.2046
+  print("对应的英制重量为%.3f工斤"%(exweight))
+if(weight[-1]=='d'):
+  exweight=
+  (eval(weight[0:-2]))/2.2046
+  print("对应的英制重量为%.3f公斤"%(exweight1))
