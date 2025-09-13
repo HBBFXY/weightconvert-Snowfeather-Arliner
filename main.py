@@ -4,4 +4,4 @@ if(weight[-1]=='g'):
   print("对应的英制重量为%.3f工斤"%(exweight))
 if(weight[-1]=='d'):
   exweight=(eval(weight[0:-2]))/2.2046
-  print("对应的英制重量为%.3f公斤"%(exweight1))
+  print("对应的英制重量为%.3f公斤"%(exweight))
